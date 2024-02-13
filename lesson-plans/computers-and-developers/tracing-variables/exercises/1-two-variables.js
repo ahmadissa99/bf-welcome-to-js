@@ -11,7 +11,7 @@
 
 // trace the program a few times with different values
 
-let x = 'Pieter';
+let x = 'Ahmad';
 // let x = 'Blake';
 // let x = 'George';
 
@@ -19,6 +19,6 @@ let y = 'hello ' + x;
 
 console.log(y);
 
-y = 'good bye ' + x;
+y = 'Nice to meet you ' + x;
 
 console.log(y);
