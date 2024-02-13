@@ -11,11 +11,11 @@
 
 // trace the program a few times with different values
 
-let a = 'Pieter';
+let a = 'Ahmad';
 // let a = 'Blake';
 // let a = 'George';
 
-let b = 'Rabbit';
+let b = 'Issa';
 // let b = 'Wozzeck';
 // let b = 'Schoenberg';
 
@@ -25,6 +25,6 @@ let d = 'hello ' + c;
 
 console.log(d);
 
-d = 'good bye ' + c;
+d = 'Nice to meet you ' + c;
 
 console.log(d);
